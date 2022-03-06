@@ -6,4 +6,4 @@
 
 variable = " I speak French"
 
-inverse_variable = variable[: : -1]
+inverse_variable = variable[: : -1] 
